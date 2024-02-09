@@ -1,4 +1,5 @@
 {
     "AdIndicator": "video-ads",
-    "SkipButton": "ytp-skip-ad-button"
+    "SkipButton": "ytp-skip-ad-button",
+    "version": "0.1.1"
 }
